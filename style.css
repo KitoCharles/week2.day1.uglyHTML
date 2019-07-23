@@ -25,3 +25,9 @@ h3 {
     margin-right: auto;
     width: 540px;
 }
+
+.watch_container {
+    background-color: #1A1818;
+    border-radius: 13px 13px 13px 13px;
+    border: 2px solid #FDEFA6;
+}
